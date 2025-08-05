@@ -50,8 +50,6 @@ MIT License – Free to use and modify.
 
 ---
 
-### 🔗 Live Post Caption (for LinkedIn/Instagram/etc.)
-
 > 🔊 **LM386 Audio Amplifier PCB Design**  
 > Designed a minimal yet professional audio amp PCB using the LM386 IC in KiCad.  
 > Features a DC barrel jack 🔌, SPST switch 🧷, potentiometer for volume 🎛️, and ground zone fill for improved noise immunity.  
